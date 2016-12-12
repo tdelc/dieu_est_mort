@@ -8,7 +8,7 @@ library(lipsum)
 library(DT) 
 
 # Liste des indices et des indices de départ
-# source('BDD_base.R')
+source('BDD_base.R')
 
 # indices_dispo
 # info_indices
